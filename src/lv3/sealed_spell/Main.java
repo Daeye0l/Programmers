@@ -1,0 +1,8 @@
+package lv3.sealed_spell;
+
+public class Main {
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.solution(52, new String[] {}));
+    }
+}
