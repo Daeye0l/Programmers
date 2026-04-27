@@ -1,4 +1,4 @@
-package lv2.석유시추;
+package lv2.석유_시추;
 
 public class Main {
 
